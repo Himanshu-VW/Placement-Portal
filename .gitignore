@@ -1,0 +1,43 @@
+﻿# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Environment / secrets
+.env
+.env.local
+*.env
+
+# Database 
+*.db
+*.sqlite
+*.sqlite3
+
+# Node
+node_modules/
+npm-debug.log*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+Must_follow_Project_Instructions.md
